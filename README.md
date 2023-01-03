@@ -4,7 +4,7 @@ Demo for [`ontobot-change-agent`](https://github.com/hrshdhgd/ontobot-change-age
 ## Steps:
 1. Create an issue with a suitable title.
 2. In the description, ontobot specifically looks for the phrase: `Hey ontobot, apply:`.
-3. This is followed by commands in bullet fashion.
+3. This is followed by commands as bullets.
 
 For example:
 ```
