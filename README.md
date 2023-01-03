@@ -2,8 +2,8 @@
 Demo for [`ontobot-change-agent`](https://github.com/hrshdhgd/ontobot-change-agent)
 
 ## Steps:
-1. Create an issue with a title of choice
-2. In the description, the keyword, ontobot is looking for is `Hey ontobot, apply:`.
+1. Create an issue with a suitable title.
+2. In the description, ontobot specifically looks for the phrase: `Hey ontobot, apply:`.
 3. This is followed by commands in bullet fashion.
 
 For example:
