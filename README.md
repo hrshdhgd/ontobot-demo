@@ -1,5 +1,5 @@
 # ontobot-demo
-Demo for ontobot-change-agent
+Demo for [`ontobot-change-agent`](https://github.com/hrshdhgd/ontobot-change-agent)
 
 ## Steps:
 1. Create an issue with a title of choice
