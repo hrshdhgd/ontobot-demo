@@ -7,7 +7,7 @@ Demo for ontobot-change-agent
 3. This is followed by commands in bullet fashion.
 
 For example:
-"""
+```
 Hey ontobot, apply:
 
 - create broad synonym 'ABCD' for FBbt:00000016
@@ -15,4 +15,4 @@ Hey ontobot, apply:
 - create narrow synonym 'ABCD3' for http://purl.obolibrary.org/obo/FBbt_00000016
 - create related synonym 'ABCD' for FBbt:00000016
 
-"""
+```
