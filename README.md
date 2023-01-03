@@ -10,9 +10,9 @@ For example:
 ```
 Hey ontobot, apply:
 
-- create broad synonym 'ABCD' for FBbt:00000016
-- create exact synonym 'ABCD2' for http://purl.obolibrary.org/obo/FBbt_00000016
-- create narrow synonym 'ABCD3' for http://purl.obolibrary.org/obo/FBbt_00000016
-- create related synonym 'ABCD' for FBbt:00000016
+* create broad synonym 'ABCD' for FBbt:00000016
+* create exact synonym 'ABCD2' for http://purl.obolibrary.org/obo/FBbt_00000016
+* create narrow synonym 'ABCD3' for http://purl.obolibrary.org/obo/FBbt_00000016
+* create related synonym 'ABCD' for FBbt:00000016
 
 ```
