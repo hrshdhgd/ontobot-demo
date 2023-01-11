@@ -27,7 +27,6 @@ jobs:
           # github-token: ${{ secrets.GH_TOKEN }}
           script: |
             const issue_number = context.issue.number
-            const repo = context.repo.owner+"/"+context.repo.repo
             return issue_number
       
       - name: Return repository name
